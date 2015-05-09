@@ -103,7 +103,7 @@ namespace CommandPattern
 }
 
 
-This is a horrible user experience. Why? Everything is marked out as if a beginner went through and said "Okay if this is going to work, then this needs to happen... next.. If this is going to work.." and so on. The user experience here is a lot of lag and time for the object to interact with the end client. This is not good programming and somewhere along the line of communication there was a failure to either 1) understand or 2) understand. 
+This is a horrible user experience. Why? Everything is marked out as if a beginner went through and said "Okay if this is going to work, then this needs to happen... next.. If this is going to work..." and so on. The user experience here is a lot of lag and time for the object to interact with the end client. This is not good programming and somewhere along the line of communication there was a failure to either 1) understand or 2) understand. 
 
 Why did I list understand twice? For the mere fact that understanding yet not understanding is not the same as understanding. You understand?
 
